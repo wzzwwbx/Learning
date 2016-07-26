@@ -1,2 +1,2 @@
-# SomethingFun
-Doing something private
+# 编写初衷
+利用Gitbook的强大功能，记录自己的学习历程。
